@@ -1,0 +1,22 @@
+INSERT INTO product_table (price, quantity, sku, title_x)
+VALUES
+(29.99, 100, 'SKU123', 'Wireless Mouse'),
+(59.99, 50, 'SKU1236', 'Bluetooth Keyboard'),
+(149.99, 200, 'SKU147', '4K Monitor'),
+(19.99, 150, 'SKU128', 'USB-C Charging Cable'),
+(99.99, 75, 'SKU256', 'Gaming Mouse'),
+(59.99, 80, 'SKU367', 'Mechanical Keyboard'),
+(399.99, 30, 'SKU478', 'LED TV'),
+(89.99, 120, 'SKU589', 'Portable Speaker'),
+(299.99, 40, 'SKU690', 'Smartwatch'),
+(179.99, 65, 'SKU701', 'Noise-Canceling Headphones'),
+(49.99, 90, 'SKU812', 'External Hard Drive'),
+(89.99, 60, 'SKU923', 'Laptop Sleeve'),
+(149.99, 40, 'SKU1034', 'Wireless Charger'),
+(249.99, 25, 'SKU1145', 'Home Security Camera'),
+(19.99, 250, 'SKU1256', 'Phone Case'),
+(129.99, 110, 'SKU1367', 'Fitness Tracker'),
+(159.99, 85, 'SKU1478', 'Smart Bulb'),
+(199.99, 55, 'SKU1589', 'Bluetooth Earbuds'),
+(299.99, 30, 'SKU1690', 'Virtual Reality Headset'),
+(349.99, 10, 'SKU1701', 'Drone with Camera');
